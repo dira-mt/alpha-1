@@ -1,1 +1,3 @@
-dim dira as Integer = 0
+Public Class Dira
+    Const Dira_1 As Integer = 0
+End Class
